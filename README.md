@@ -1,12 +1,10 @@
-# React + Vite
+Profile React App
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Welcome to the Profile React App! This project is a simple yet elegant React application that showcases a user profile with a modern and interactive design. It demonstrates the use of class-based components, state management, and lifecycle methods in React.
 
-Currently, two official plugins are available:
+Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
-
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend using TypeScript and enable type-aware lint rules. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+Dynamic Profile Display: Toggle the visibility of a user profile with a button.
+Glassy Blurred Background: The profile card features a sleek glassy blurred background for a modern look.
+Time Since Mount: Displays the time elapsed since the component was mounted using setInterval.
+Responsive Design: The app is fully responsive and works seamlessly on all devices.
